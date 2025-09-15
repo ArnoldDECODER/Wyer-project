@@ -20,7 +20,7 @@ Before you begin, ensure the following are installed:
 
 ---
 
-## 🚀 Setup Instructions
+## Setup Instructions
 
 ### 1. Clone the Repository
 
